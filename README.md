@@ -42,6 +42,8 @@ python crypto_king.py
 -----------------------------------------------------------------------------------------------------
 -Configuration-
 
+Sign-up for a free account to get a basic api key, pay for one if you want idc. https://pro-api.coinmarketcap.com/
+
 Replace 'YOUR_API_KEY_HERE' in the script with your actual CoinMarketCap API key.
 
 python
